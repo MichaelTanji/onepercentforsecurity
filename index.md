@@ -25,9 +25,9 @@ Consider the status quo when it comes to promoting security solutions, ask yours
 
 ### Call to Action: Give 1%
 
-What follows is a thought experiment that uses RSAC (a very large and well-done conference) and the SANS Institute (a highly regarded source of technical security training) as examples.
+What follows is a thought experiment that uses RSAC (a very large and well-done conference) and the [SANS Institute](https://www.sans.org/) (a highly regarded source of technical security training) as examples.
 
-One way RSAC generates revenue is through vendor booth sales. Some very rough counting using the vendor floor maps provided at the RSAC web site, and their booth price list, suggests booth sales produces about $10M in revenue (for the purposes of this experiment we’ll disregard any discounts or other pricing variances, as well as all the other ways RSAC generates revenue).  Imagine if the company were to reserve 1% of that $10M to directly support cybersecurity training with a $100,000 grant. At a rough average of $6,000 per class, RSAC would have paid for 16 SANS classes for aspirants to the field.
+One way RSAC generates revenue is through vendor booth sales. Some very rough counting using the [vendor floor maps](https://www.rsaconference.com/usa/expo-and-sponsors) provided at the RSAC web site, and [their booth price list](https://www.rsaconference.com/writable/files/2020/rsac_2020_exhibit_sizes_prices.pdf), suggests booth sales produces about $10M in revenue (for the purposes of this experiment we’ll disregard any discounts or other pricing variances, as well as all the other ways RSAC generates revenue).  Imagine if the company were to reserve 1% of that $10M to directly support cybersecurity training with a $100,000 grant. At a rough average of $6,000 per class, RSAC would have paid for 16 SANS classes for aspirants to the field.
 
 *“But guys, 16 freshly minted GIACs isn’t going to make a big difference in the ‘talent shortage’ problem.”*
 
