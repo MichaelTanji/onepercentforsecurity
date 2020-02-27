@@ -35,7 +35,7 @@ You’re absolutely right. This would not have an impact on a sufficient scale, 
 
 Now we’re cooking with gas.
 
-Yes, these are imperfect numbers, and no not everyone would see equal amounts of value by participating, but the overall point remains: the status quo is not moving the needle. For a company of any size, the reallocation of a minimal amount of money could have a much more significant impact on security than a magician, a gross of stress balls with the company logo, or sponsoring a race car. 
+Yes, this is a simplistic example with imperfect numbers, and no not everyone would see equal amounts of value by participating, but the overall point remains: the status quo is not moving the needle. For a company of any size, the reallocation of a minimal amount of money could have a much more significant impact on security than a magician, a gross of stress balls with the company logo, or sponsoring a race car. 
 
 One sign of a good plan is how well it aligns the interests and incentives of all parties involved. Addressing the talent shortage in the aforementioned fashion works to the benefit of vendors, conferences, corporations, and individuals alike. It doesn’t just fund tens and perhaps hundreds of thousands of new practitioners, it’s also funding:
 
