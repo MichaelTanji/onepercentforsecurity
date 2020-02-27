@@ -15,7 +15,7 @@ But one question we keep asking ourselves – a question that constantly keeps t
 
 ### A Moment for Introspection
 
-Walk the vendor floor of any major security conference and stare in wonder at the booths filled with expensive furniture and electronics; ogle the cars being auctioned off; laugh at the tricks of magicians; and schlep hundreds of dollars’ worth of printed collateral and tchotchkes that will be filling the garbage dumps around San Francisco by this weekend and ask yourself:
+Walk the vendor floor of any major security conference and stare in wonder at the booths filled with expensive furniture and electronics; ogle the cars being auctioned off; laugh at the tricks of magicians; and schlep hundreds of dollars’ worth of printed collateral and tchotchkes that will be filling the local garbage dump by this weekend and ask yourself:
 
 *"Is that investment of capital producing a security ROI?"*
 
