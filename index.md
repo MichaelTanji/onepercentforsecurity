@@ -39,9 +39,9 @@ Yes, these are imperfect numbers, and no not everyone would see equal amounts of
 
 One sign of a good plan is how well it aligns the interests and incentives of all parties concerned. Addressing the talent shortage in the aforementioned fashion works to the benefit of vendors, conferences, corporations, and individuals alike. It doesn’t just fund tens and perhaps hundreds of thousands of new practitioners, it’s also funding:
 
-•	New product/service users.
-•	New product/service developers.
-•	New conference attendees.
+- New product/service users.
+- New product/service developers.
+- New conference attendees.
 
 A donation of capital, that fuels an injection of human capital, also helps to address issues like burn-out and other factors that are driving people out of the field, further exacerbating our people problems. Apropos then, the promulgation of a proposal that we should all put our money where our mouths are, when the theme of RSAC 2020 is the “Human Element.” 
 
