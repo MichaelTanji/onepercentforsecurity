@@ -1,6 +1,6 @@
 # Substance Over Flash
 
-## Having an impact on cybersecurity problems by paying for what’s important
+### Having an impact on cybersecurity problems by paying for what’s important
 #### Michael Tanji / Alex Kreilein
 
 It’s been said that you can’t spend your way out of a security problem, but you wouldn’t know that by attending a security conference of any size. We need the solutions vendors provide; what we don’t need is all the entertainment. What is a better use of corporate money; magicians, boxers, and car raffles, or funding the next generation of practitioners, product users, and solution developers?
@@ -48,3 +48,5 @@ A donation of capital, that fuels an injection of human capital, also helps to a
 ### Closing Salvo
 
 We can keep doing what we’re doing – the cybersecurity equivalent of ‘thoughts and prayers’ - or we can make a miniscule change that has the potential to have outsized returns. As investors and business people ourselves we’re not allergic to money, but we also believe that capitalism focused on security issues can and should work to make us all safer and stronger. We believe our proposal has the potential to do just that, look forward to the discussion that is sure to follow, and the formation of a corporate/non-profit partnership that could make it a reality.
+
+***The ideas an opinions expressed herein are those of the authors exclusively and alone.***
