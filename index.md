@@ -11,7 +11,7 @@ It would be nice to think that we coined the phrase, but if we’re being honest
 
 The point being that creating solutions and getting them into the hands of people who need them takes money. It is why companies that have the greatest solutions still need a sales team. Likewise, developing solutions requires effort, and that effort deserves to be rewarded. 
 
-But one question we keep asking ourselves – a question that constantly keeps tickling the backs of our minds - is whether what we’re spending to communicate value propositions is not coming at the expense of doing something more substantive? How might security conferences – and those who participate in them - add value to the security field writ large without a negative impact?
+But one question we keep asking ourselves – a question that constantly keeps tickling the backs of our minds - is whether what we’re spending to communicate value propositions is not coming at the expense of doing something more substantive? How might security conferences – and those who participate in them - add value to the security field writ large without a materially negative impact?
 
 ### A Moment for Introspection
 
