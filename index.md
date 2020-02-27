@@ -1,7 +1,7 @@
 # Substance Over Flash
 
 ### Having an impact on cybersecurity problems by paying for what’s important
-#### Michael Tanji / Alex Kreilein
+##### Michael Tanji / Alex Kreilein
 
 *It’s been said that you can’t spend your way out of a security problem, but you wouldn’t know that by attending a security conference of any size. We need the solutions vendors provide; what we don’t need is all the entertainment. What is a better use of corporate money; magicians, boxers, and car raffles, or funding the next generation of practitioners, product users, and solution developers?*
 
