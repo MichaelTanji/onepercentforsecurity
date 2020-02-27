@@ -1,13 +1,13 @@
-# Substance Over Flash
+-># Substance Over Flash<-
 
-## Having an impact on cybersecurity problems by paying for what’s important
-#### Michael Tanji / Alex Kreilein
+->## Having an impact on cybersecurity problems by paying for what’s important<-
+->#### Michael Tanji / Alex Kreilein<-
 
 It’s been said that you can’t spend your way out of a security problem, but you wouldn’t know that by attending a security conference of any size. We need the solutions vendors provide; what we don’t need is all the entertainment. What is a better use of corporate money; magicians, boxers, and car raffles, or funding the next generation of practitioners, product users, and solution developers?
 
 It would be nice to think that we coined the phrase, but if we’re being honest, we probably stole it from someone and forgotten the source. It’s a phrase that is particularly apropos this week during the RSA Conference (RSAC) and it goes like this:
 
-*Nobody is in the security business, not even security companies.  They’re just in business.*
+->*Nobody is in the security business, not even security companies.  They’re just in business.*<-
 
 The point being that creating solutions and getting them into the hands of people who need them takes money. It is why companies that have the greatest solutions still need a sales team. Likewise, developing solutions requires effort, and that effort deserves to be rewarded. 
 
@@ -17,7 +17,7 @@ But one question we keep asking ourselves – a question that constantly keeps t
 
 Walk the vendor floor of any major security conference and stare in wonder at the booths filled with expensive furniture and electronics; ogle the cars being auctioned off; laugh at the tricks of magicians; and schlep hundreds of dollars’ worth of printed collateral and tchotchkes that will be filling the garbage dumps around San Francisco by this weekend and ask yourself:
 
-Is that investment of capital producing a security ROI?
+->*"Is that investment of capital producing a security ROI?"*<-
 
 In response to the so-called “talent shortage” in security, industry has responded with “artificial” human intelligence and automation. Yet if you’ve been a security decision-maker for any length of time you know that the true total cost of ownership of anyone’s magic blinky box is the box, plus the humans needed to make the box work. Rare is the solution that actually reduces headcount. This is a problem on multiple levels; companies are competing with other companies (and solution providers) for talent, the more sophisticated solution the rarer the talent needed to make it work, absent adequate talent the need for solutions wanes.
 
@@ -29,7 +29,7 @@ What follows is a thought experiment that uses RSAC (a very large and well-done 
 
 One way RSAC generates revenue is through vendor booth sales. Some very rough counting using the vendor floor maps provided at the RSAC web site, and their booth price list, suggests booth sales produces about $10M in revenue (for the purposes of this experiment we’ll disregard any discounts or other pricing variances, as well as all the other ways RSAC generates revenue).  Imagine if the company were to reserve 1% of that $10M to directly support cybersecurity training with a $100,000 grant. At a rough average of $6,000 per class, RSAC would have paid for 16 SANS classes for aspirants to the field.
 
-*“But guys, 16 freshly minted GIACs isn’t going to make a big difference in the ‘talent shortage’ problem.”*
+->*“But guys, 16 freshly minted GIACs isn’t going to make a big difference in the ‘talent shortage’ problem.”*<-
 
 You’re absolutely right. This would not have an impact on a sufficient scale, so let’s extend the experiment a little further: the estimated market for security products and services is somewhere around $150B globally. If everyone in security set aside 1% and donated it to a training fund - for those of you who want to check your answers in the back of the book - that’s 250,000 new GIACs. 
 
