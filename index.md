@@ -21,7 +21,7 @@ Walk the vendor floor of any major security conference and stare in wonder at th
 
 In response to the so-called “talent shortage” in security, industry has responded with “artificial” human intelligence and automation. Yet if you’ve been a security decision-maker for any length of time you know that the true total cost of ownership of anyone’s magic blinky box is the box, plus the humans needed to make the box work. Rare is the solution that actually reduces headcount. This is a problem on multiple levels: companies are competing with each other (and solution providers) for talent; the more sophisticated the solution the rarer the talent needed to make it work; and absent adequate talent (period) the need for solutions wanes.
 
-Consider the status quo when it comes to promoting security solutions, ask yourself what is more valuable to your company, your customers, and the field: a new practitioner, or a t-shirt?
+Consider the status quo when it comes to promoting security solutions, and ask yourself what is more valuable to your company, your customers, and the field: a new practitioner or a piece of swag?
 
 ### Call to Action: Give 1%
 
